@@ -1,0 +1,62 @@
+header {
+    background-color: rgb(49, 16, 233);
+    text-align: center;
+width: 1480px;
+}
+
+ul.ul {
+    list-style-type: none;
+}
+.table{
+    width: 1480px;
+    border: 1px;
+    border-color: black;
+    
+}
+h1.color{
+    background-color: rgb(237, 237, 243);
+}
+
+
+a{
+   background-color: rgb(43, 79, 156);
+   color: black;
+  text-align: center;
+}
+a:hover {
+    background-color: rgb(57, 85, 179);
+}
+.p{
+   text-align: center; 
+   background-color: blue;
+    
+}
+.a{
+    background-color: black;
+}
+
+table.section{
+    width: 800px;
+    height: auto;
+   background-color:rgb(39, 10, 143) ;
+   border: 1px;
+   border-color: black;
+   
+}
+ul.big{
+   text-align: center;
+   list-style-type: none;
+}
+div.e{
+    text-align: center;
+    background-color: blue;
+}
+.about{
+    text-align: center;
+    list-style-type: none;
+}
+.contact{
+    background-color: blue;
+    
+}
+
